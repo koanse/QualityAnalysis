@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="QualityAnalysis">
+</Property><Property Name="Solution File" Value="C:\С\Мои документы\Projects2005\QualityAnalysis\QualityAnalysis.sln">
+</Property><Property Name="User Options File" Value="C:\С\Мои документы\Projects2005\QualityAnalysis\QualityAnalysis.suo">
+</Property><Property Name="Date" Value="2 января 2010 г.">
+</Property><Property Name="Time" Value="13:20">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="QualityAnalysis.sln" Description="File successfully backed up as C:\С\Мои документы\Projects2005\QualityAnalysis\Backup\QualityAnalysis.sln">
+</Event><Event ErrorLevel="0" Project="" Source="QualityAnalysis.suo" Description="File successfully backed up as C:\С\Мои документы\Projects2005\QualityAnalysis\Backup\QualityAnalysis.suo">
+</Event><Event ErrorLevel="0" Project="QualityAnalysis" Source="QualityAnalysis\QualityAnalysis.csproj" Description="Project file successfully backed up as C:\С\Мои документы\Projects2005\QualityAnalysis\Backup\QualityAnalysis\QualityAnalysis.csproj">
+</Event><Event ErrorLevel="0" Project="QualityAnalysis" Source="QualityAnalysis\ImportForm.cs" Description="File successfully backed up as C:\С\Мои документы\Projects2005\QualityAnalysis\Backup\QualityAnalysis\ImportForm.cs">
+</Event><Event ErrorLevel="0" Project="QualityAnalysis" Source="QualityAnalysis\ImportForm.Designer.cs" Description="File successfully backed up as C:\С\Мои документы\Projects2005\QualityAnalysis\Backup\QualityAnalysis\ImportForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QualityAnalysis" Source="QualityAnalysis\MainForm.cs" Description="File successfully backed up as C:\С\Мои документы\Projects2005\QualityAnalysis\Backup\QualityAnalysis\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="QualityAnalysis" Source="QualityAnalysis\MainForm.Designer.cs" Description="File successfully backed up as C:\С\Мои документы\Projects2005\QualityAnalysis\Backup\QualityAnalysis\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QualityAnalysis" Source="QualityAnalysis\IdForm.cs" Description="File successfully backed up as C:\С\Мои документы\Projects2005\QualityAnalysis\Backup\QualityAnalysis\IdForm.cs">
+</Event><Event ErrorLevel="0" Project="QualityAnalysis" Source="QualityAnalysis\IdForm.Designer.cs" Description="File successfully backed up as C:\С\Мои документы\Projects2005\QualityAnalysis\Backup\QualityAnalysis\IdForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QualityAnalysis" Source="QualityAnalysis\WBForm.cs" Description="File successfully backed up as C:\С\Мои документы\Projects2005\QualityAnalysis\Backup\QualityAnalysis\WBForm.cs">
+</Event><Event ErrorLevel="0" Project="QualityAnalysis" Source="QualityAnalysis\WBForm.Designer.cs" Description="File successfully backed up as C:\С\Мои документы\Projects2005\QualityAnalysis\Backup\QualityAnalysis\WBForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QualityAnalysis" Source="QualityAnalysis\Program.cs" Description="File successfully backed up as C:\С\Мои документы\Projects2005\QualityAnalysis\Backup\QualityAnalysis\Program.cs">
+</Event><Event ErrorLevel="0" Project="QualityAnalysis" Source="QualityAnalysis\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\С\Мои документы\Projects2005\QualityAnalysis\Backup\QualityAnalysis\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="QualityAnalysis" Source="QualityAnalysis\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\С\Мои документы\Projects2005\QualityAnalysis\Backup\QualityAnalysis\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QualityAnalysis" Source="QualityAnalysis\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\С\Мои документы\Projects2005\QualityAnalysis\Backup\QualityAnalysis\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="QualityAnalysis" Source="QualityAnalysis\ClassDiagram1.cd" Description="File successfully backed up as C:\С\Мои документы\Projects2005\QualityAnalysis\Backup\QualityAnalysis\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="QualityAnalysis" Source="QualityAnalysis\Properties\Settings.settings" Description="File successfully backed up as C:\С\Мои документы\Projects2005\QualityAnalysis\Backup\QualityAnalysis\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="QualityAnalysis" Source="QualityAnalysis\ImportForm.resx" Description="File successfully backed up as C:\С\Мои документы\Projects2005\QualityAnalysis\Backup\QualityAnalysis\ImportForm.resx">
+</Event><Event ErrorLevel="0" Project="QualityAnalysis" Source="QualityAnalysis\MainForm.resx" Description="File successfully backed up as C:\С\Мои документы\Projects2005\QualityAnalysis\Backup\QualityAnalysis\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="QualityAnalysis" Source="QualityAnalysis\IdForm.resx" Description="File successfully backed up as C:\С\Мои документы\Projects2005\QualityAnalysis\Backup\QualityAnalysis\IdForm.resx">
+</Event><Event ErrorLevel="0" Project="QualityAnalysis" Source="QualityAnalysis\WBForm.resx" Description="File successfully backed up as C:\С\Мои документы\Projects2005\QualityAnalysis\Backup\QualityAnalysis\WBForm.resx">
+</Event><Event ErrorLevel="0" Project="QualityAnalysis" Source="QualityAnalysis\Properties\Resources.resx" Description="File successfully backed up as C:\С\Мои документы\Projects2005\QualityAnalysis\Backup\QualityAnalysis\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="QualityAnalysis" Source="QualityAnalysis\QualityAnalysis.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="QualityAnalysis" Source="QualityAnalysis\QualityAnalysis.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="QualityAnalysis.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="QualityAnalysis.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="QualityAnalysis" Source="QualityAnalysis\QualityAnalysis.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

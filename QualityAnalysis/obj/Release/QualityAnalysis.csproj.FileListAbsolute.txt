@@ -1,0 +1,13 @@
+C:\С\Мои документы\Projects2005\QualityAnalysis\QualityAnalysis\obj\Release\QualityAnalysis.exe
+C:\С\Мои документы\Projects2005\QualityAnalysis\QualityAnalysis\obj\Release\QualityAnalysis.pdb
+C:\С\Мои документы\Projects2005\QualityAnalysis\QualityAnalysis\bin\Release\QualityAnalysis.exe
+C:\С\Мои документы\Projects2005\QualityAnalysis\QualityAnalysis\bin\Release\QualityAnalysis.pdb
+C:\С\Мои документы\Projects2005\QualityAnalysis\QualityAnalysis\obj\Release\ResolveAssemblyReference.cache
+C:\С\Мои документы\Projects2005\QualityAnalysis\QualityAnalysis\obj\Release\QualityAnalysis.ImportForm.resources
+C:\С\Мои документы\Projects2005\QualityAnalysis\QualityAnalysis\obj\Release\QualityAnalysis.MainForm.resources
+C:\С\Мои документы\Projects2005\QualityAnalysis\QualityAnalysis\obj\Release\QualityAnalysis.IdForm.resources
+C:\С\Мои документы\Projects2005\QualityAnalysis\QualityAnalysis\obj\Release\QualityAnalysis.WBForm.resources
+C:\С\Мои документы\Projects2005\QualityAnalysis\QualityAnalysis\obj\Release\QualityAnalysis.Properties.Resources.resources
+C:\С\Мои документы\Projects2005\QualityAnalysis\QualityAnalysis\obj\Release\QualityAnalysis.csproj.GenerateResource.Cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\QualityAnalysis\QualityAnalysis\obj\Release\QualityAnalysis.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\QualityAnalysis\QualityAnalysis\obj\Release\QualityAnalysis.pdb
